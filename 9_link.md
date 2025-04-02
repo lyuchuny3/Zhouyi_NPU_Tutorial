@@ -1,4 +1,4 @@
-# Arm China ZhouYi NPU Opensource Project
+# Arm China ZhouYi NPU github link
 
 - Parser: https://github.com/Arm-China/Compass_Unified_Parser.git
 
