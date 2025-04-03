@@ -7,7 +7,7 @@ Zhouyi Compass is the software development kit(SDK) for the Arm China Zhouyi NPU
 
 This Tutorials is based on this talk:
 
-- vedio: https://aijishu.com/l/1110000000502780
+- video: https://aijishu.com/l/1110000000502780
 
 - slide: https://aijishu.com/file/1090000000504140?articleId=1060000000503879.
 
