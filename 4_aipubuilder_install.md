@@ -3,7 +3,7 @@
 To getting Started with Zhouyi NPU, we provide a simple way to install the Compass AIPUBuilder: **All you need is a python package!!!**
 
 ## Download whl 
-1. download: you can download the python package from : I will put the link as quickly as possible. (my email: lyuchuny3@foxmail.com).
+1. download: you can download the python package from : I will put the link as quickly as possible.
 
 ## Pip install
 2. installation: ```pip3 install AIPUBuilder-*.whl```
